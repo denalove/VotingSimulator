@@ -1,6 +1,6 @@
 Voting Simulator
 ===
-
+"Hi Jon"
 This is a voting simulator.
 You can create person objects and politician objects.
 These objects can interact and all can vote.
